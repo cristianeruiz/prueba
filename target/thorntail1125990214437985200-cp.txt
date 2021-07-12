@@ -1,0 +1,4 @@
+javax:javaee-api:jar:8.0:
+  - javax:javaee-api:jar:8.0:provided
+  - com.sun.mail:javax.mail:jar:1.6.0:provided
+  - javax.activation:activation:jar:1.1:provided
